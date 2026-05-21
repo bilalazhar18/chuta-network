@@ -42,7 +42,7 @@ A Laravel and Vue.js based networking platform connecting students and employers
 
 # Employer Dashboard
 
-![Employer Dashboard](screenshots/6th(1).png)
+![Employer Dashboard](screenshots/0.9.png)
 
 ---
 
@@ -50,13 +50,13 @@ A Laravel and Vue.js based networking platform connecting students and employers
 
 ## Package Listing
 
-![Package Listing](screenshots/4th(1).png)
+![Package Listing](screenshots/0.5.png)
 
 ---
 
 ## Purchase Confirmation Modal
 
-![Purchase Confirmation](screenshots/3rd(1).png)
+![Purchase Confirmation](screenshots/0.4.png)
 
 ---
 
@@ -64,19 +64,19 @@ A Laravel and Vue.js based networking platform connecting students and employers
 
 ## Stripe Payment Modal
 
-![Stripe Payment](screenshots/1st(1).png)
+![Stripe Payment](screenshots/0.6.png)
 
 ---
 
 ## Filled Payment Information
 
-![Filled Payment](screenshots/2nd(1).png)
+![Filled Payment](screenshots/0.7.png)
 
 ---
 
 ## Payment Success Notification
 
-![Payment Success](screenshots/5th(1).png)
+![Payment Success](screenshots/0.8.png)
 
 ---
 
