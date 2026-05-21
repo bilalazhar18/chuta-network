@@ -1,0 +1,6 @@
+/nbproject/private/
+/vendor
+/storage
+.env
+node_modules
+/bootstrap/cache/*.php

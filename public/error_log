@@ -1,0 +1,70 @@
+[07-Oct-2020 22:19:22 UTC] PHP Warning:  Uncaught ErrorException: require(C:/xampp/htdocs/chutanetwork/master/vendor/autoload.php): failed to open stream: No such file or directory in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php:14
+Stack trace:
+#0 /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php(14): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(C:/xamp...', '/home/tutavqyg/...', 14, Array)
+#1 /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php(14): require()
+#2 /home/tutavqyg/chuta.network/dev/vendor/composer/ClassLoader.php(444): include('/home/tutavqyg/...')
+#3 /home/tutavqyg/chuta.network/dev/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/tutavqyg/...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home/tutavqyg/chuta.network/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(779):  in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php on line 14
+[07-Oct-2020 22:19:22 UTC] PHP Fatal error:  main(): Failed opening required 'C:/xampp/htdocs/chutanetwork/master/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php on line 14
+[07-Oct-2020 22:20:02 UTC] PHP Warning:  Uncaught ErrorException: require(C:/xampp/htdocs/chutanetwork/master/vendor/autoload.php): failed to open stream: No such file or directory in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php:14
+Stack trace:
+#0 /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php(14): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(C:/xamp...', '/home/tutavqyg/...', 14, Array)
+#1 /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php(14): require()
+#2 /home/tutavqyg/chuta.network/dev/vendor/composer/ClassLoader.php(444): include('/home/tutavqyg/...')
+#3 /home/tutavqyg/chuta.network/dev/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/tutavqyg/...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home/tutavqyg/chuta.network/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(779):  in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php on line 14
+[07-Oct-2020 22:20:02 UTC] PHP Fatal error:  main(): Failed opening required 'C:/xampp/htdocs/chutanetwork/master/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php on line 14
+[07-Oct-2020 23:25:48 UTC] PHP Warning:  Uncaught ErrorException: require(C:/xampp/htdocs/chutanetwork/master/vendor/autoload.php): failed to open stream: No such file or directory in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php:14
+Stack trace:
+#0 /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php(14): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(C:/xamp...', '/home/tutavqyg/...', 14, Array)
+#1 /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php(14): require()
+#2 /home/tutavqyg/chuta.network/dev/vendor/composer/ClassLoader.php(444): include('/home/tutavqyg/...')
+#3 /home/tutavqyg/chuta.network/dev/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/tutavqyg/...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home/tutavqyg/chuta.network/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(779):  in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php on line 14
+[07-Oct-2020 23:25:48 UTC] PHP Fatal error:  main(): Failed opening required 'C:/xampp/htdocs/chutanetwork/master/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php on line 14
+[08-Oct-2020 05:54:15 UTC] PHP Warning:  Uncaught ErrorException: require(C:/xampp/htdocs/chutanetwork/master/vendor/autoload.php): failed to open stream: No such file or directory in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php:14
+Stack trace:
+#0 /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php(14): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(C:/xamp...', '/home/tutavqyg/...', 14, Array)
+#1 /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php(14): require()
+#2 /home/tutavqyg/chuta.network/dev/vendor/composer/ClassLoader.php(444): include('/home/tutavqyg/...')
+#3 /home/tutavqyg/chuta.network/dev/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/tutavqyg/...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home/tutavqyg/chuta.network/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(779):  in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php on line 14
+[08-Oct-2020 05:54:15 UTC] PHP Fatal error:  main(): Failed opening required 'C:/xampp/htdocs/chutanetwork/master/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php on line 14
+[08-Oct-2020 05:56:35 UTC] PHP Warning:  Uncaught ErrorException: require(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php:14
+Stack trace:
+#0 /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php(14): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(): http...', '/home/tutavqyg/...', 14, Array)
+#1 /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php(14): require()
+#2 /home/tutavqyg/chuta.network/dev/vendor/composer/ClassLoader.php(444): include('/home/tutavqyg/...')
+#3 /home/tutavqyg/chuta.network/dev/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/tutavqyg/...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home/tutavqyg/chuta.network/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__const in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php on line 14
+[08-Oct-2020 05:56:35 UTC] PHP Fatal error:  main(): Failed opening required 'https://chuta.network/dev/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php on line 14
+[08-Oct-2020 05:56:39 UTC] PHP Warning:  Uncaught ErrorException: require(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php:14
+Stack trace:
+#0 /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php(14): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(): http...', '/home/tutavqyg/...', 14, Array)
+#1 /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php(14): require()
+#2 /home/tutavqyg/chuta.network/dev/vendor/composer/ClassLoader.php(444): include('/home/tutavqyg/...')
+#3 /home/tutavqyg/chuta.network/dev/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/tutavqyg/...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home/tutavqyg/chuta.network/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__const in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php on line 14
+[08-Oct-2020 05:56:39 UTC] PHP Fatal error:  main(): Failed opening required 'https://chuta.network/dev/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php on line 14
+[08-Oct-2020 05:57:21 UTC] PHP Warning:  Uncaught ErrorException: require(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php:14
+Stack trace:
+#0 /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php(14): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(): http...', '/home/tutavqyg/...', 14, Array)
+#1 /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php(14): require()
+#2 /home/tutavqyg/chuta.network/dev/vendor/composer/ClassLoader.php(444): include('/home/tutavqyg/...')
+#3 /home/tutavqyg/chuta.network/dev/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/tutavqyg/...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home/tutavqyg/chuta.network/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__const in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php on line 14
+[08-Oct-2020 05:57:21 UTC] PHP Fatal error:  main(): Failed opening required 'https://chuta.network/dev/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tutavqyg/chuta.network/dev/app/Http/Controllers/studentController.php on line 14
